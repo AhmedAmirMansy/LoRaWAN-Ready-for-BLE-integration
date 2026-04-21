@@ -445,7 +445,7 @@ Session Keys (Derived after successful Join)
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is a closed source project with a signed NDA to not share the code around but only technical details
 
 ---
 
